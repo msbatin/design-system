@@ -32,7 +32,7 @@
     "@datacamp/waffles-tooltip": "^0.3.1",
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
-    "catalog": "^3.6.0",
+    "catalog": "^3.6.2",
     "classnames": "^2.2.5",
     "lodash": "^4.17.20",
     "lottie-react": "^2.1.0",
